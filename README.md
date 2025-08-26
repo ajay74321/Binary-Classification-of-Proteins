@@ -1,7 +1,7 @@
-# Binary-Classification-of-Proteins
-# Introduction
+## Binary-Classification-of-Proteins
+## Introduction
 This project focuses on developing machine learning models to classify protein sequences into positive (+1) or negative (-1) categories. Protein sequences, represented as chains of amino acids, carry vital biological information that can be leveraged for predictive tasks in computational biology. Unlike structured numerical data, protein sequences are inherently symbolic and require specialized feature engineering techniques such as amino acid composition, dipeptide composition, physico-chemical properties, and residue repeat information. These features capture both the chemical nature and sequential patterns of proteins, enabling the construction of robust classifiers.
-### 📊 Dataset Description
+### 📊 File Description
 
 The dataset provided for this project consists of three CSV files:
 
@@ -38,6 +38,12 @@ You can install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+## Data 
+The training and test data used in this project are provided in the dataset folder.
+
+## Note
+This project was part of a kaggle competition.
 
 
 
