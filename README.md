@@ -39,14 +39,5 @@ You can install all dependencies using:
 ```bash
 pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-### 🧮 Feature Extraction using pfeature
-
-This project uses **[pfeature](https://github.com/raghavagps/pfeature)** for generating protein sequence descriptors such as AAC, DPC, PCP, and RRI.  
-
-#### 🔧 Installation
-```bash
-pip install pfeature
 
 
